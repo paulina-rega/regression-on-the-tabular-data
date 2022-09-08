@@ -1,7 +1,7 @@
 '''
-Program helping to determine polynomial degree and feature set for regression.
+Program helping to determine polynomial degree and feature set for regression
 
-Prints information about root of mean squared error, R2 score and
+Prints infomration about root of mean squared error, R2 score and
 execution time of regression for different parameters
 '''
 
@@ -153,3 +153,7 @@ train_model_print_info(df, features_to_keep, deg)
 
 # From the printed informations the optimal outcome is for
 # 2nd degree polynomial regression model trained with features '6' and '7'
+
+
+import session_info
+session_info.show()
