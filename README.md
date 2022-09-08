@@ -4,6 +4,8 @@
 Python version: 3.9.12
 ```
 
+Prediction based on 'internship_hidden_test.csv' and 'internship_train.csv' files
+
 #### Steps in the project:
 - Data analysis
 - Choosing features for the model
